@@ -1,8 +1,8 @@
 # Image Processing Based Vehicle Number Plate Detection and Speeding Radar
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eGuRIqdugiU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Image processing based vehicle number plate detection and speeding radar](https://miro.medium.com/max/700/1*lpK7KLqmbv9lhn8zOy1Epw.png)
 
-The scope of this tool, is to implement an image processing-based traffic radar that detects vehicle number plates and subsequently measures the instantaneous vehicle speed. This application of computational photography/image processing was selected in order to develop an open source and cost-effective alternative to current speeding radar systems that can carry a price tag upwards of $6,500 per unit. As an open source technique, this will enable local authorities, municipalities, and facilities to implement their own low-cost ($1,700) and convenient traffic monitoring systems with off the shelf devices and equipment.
+The scope of this tool, is to implement an image processing-based traffic radar that detects vehicle number plates and subsequently measures the instantaneous vehicle speed. This application of computational photography/image processing was selected in order to develop an open source and cost-effective alternative to current speeding radar systems that can carry a price tag upwards of $6,500 per unit. As an open source technique, this will enable local authorities, municipalities, and facilities to implement their own low-cost ($1,700) and convenient traffic monitoring systems with off the shelf devices and equipment. Please refer to the following [article](https://khorasani.medium.com/image-processing-based-vehicle-number-plate-detection-and-speeding-radar-aa375952d0f6) for further information.
 
 Instructions:
 
